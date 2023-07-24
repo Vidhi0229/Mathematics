@@ -1,5 +1,5 @@
 # Mathematics
-Common coding question on mathematics
+Common coding question on mathematics using C++ STL
 
 1. Count Digits: Count the number of digits given in user input  number.
 [GDB compiler]: https://onlinegdb.com/mEEeFpMu8
@@ -12,3 +12,6 @@ Common coding question on mathematics
 
 4. Greatest Common Divisor: Finds GCD between two numbers
 [GDB compiler]: https://onlinegdb.com/9pY4tJUM0
+
+5. Least Common Divisor: Implemented function tha finds LCM between two numbers
+[GDB compiler]: https://onlinegdb.com/4VYmjFXIK
