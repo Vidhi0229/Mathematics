@@ -15,3 +15,6 @@ Common coding question on mathematics using C++ STL
 
 5. Least Common Divisor: Implemented function tha finds LCM between two numbers
 [GDB compiler]: https://onlinegdb.com/4VYmjFXIK
+
+6. Prime Number: Implemented function that checks whether the user input number is prime or not.
+[GDB compiler]: https://onlinegdb.com/5OaIxxr6aA
