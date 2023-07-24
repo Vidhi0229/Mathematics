@@ -9,3 +9,6 @@ Common coding question on mathematics
 
 3. Factorial Number: Finds user input number's Factorial
 [GDB compiler]: https://onlinegdb.com/ndIV6zFZH
+
+4. Greatest Common Divisor: Finds GCD between two numbers
+[GDB compiler]: https://onlinegdb.com/rWkY1AdKx
