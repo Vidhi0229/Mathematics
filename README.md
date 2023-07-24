@@ -11,4 +11,4 @@ Common coding question on mathematics
 [GDB compiler]: https://onlinegdb.com/ndIV6zFZH
 
 4. Greatest Common Divisor: Finds GCD between two numbers
-[GDB compiler]: https://onlinegdb.com/rWkY1AdKx
+[GDB compiler]: https://onlinegdb.com/9pY4tJUM0
