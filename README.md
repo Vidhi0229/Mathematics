@@ -21,3 +21,6 @@ Common coding question on mathematics using C++ STL
 
 7. Prime Factor: Function which returns prime factors of a user input number.
 [GDB compiler]: https://onlinegdb.com/lawtFHzkV
+
+8. Sieve of Eratosthenes: A simple and efficient ancient algorithm for finding all prime numbers up to a specified limit.
+[GDB compiler]: https://onlinegdb.com/TjgMhTWJo
