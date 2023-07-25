@@ -18,3 +18,6 @@ Common coding question on mathematics using C++ STL
 
 6. Prime Number: Implemented function that checks whether the user input number is prime or not.
 [GDB compiler]: https://onlinegdb.com/5OaIxxr6aA
+
+7. Prime Factor: Function which returns prime factors of a user input number.
+[GDB compiler]: https://onlinegdb.com/lawtFHzkV
